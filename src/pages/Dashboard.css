@@ -1,0 +1,27 @@
+.dashboard-page {
+  max-width: 1200px;
+}
+
+.dashboard-title {
+  font-size: 28px;
+  color: var(--blue);
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.dashboard-subtitle {
+  color: #666;
+  font-size: 15px;
+  margin-bottom: 24px;
+}
+
+.tableau-container {
+  background: white;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  overflow: hidden;
+}
+.dashboard-page {
+  max-width: 100%;
+}

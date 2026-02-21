@@ -1,0 +1,21 @@
+@media (max-width: 768px) {
+  .about-two-col {
+    grid-template-columns: 1fr;
+  }
+
+  .data-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stack-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .outlets-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .about-hero h1 {
+    font-size: 28px;
+  }
+}
